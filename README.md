@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=g-laliotis&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f576338d-704e-4f2e-8d6d-18c082e3deb8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
