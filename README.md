@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m George Laliotis an aspiring developer exploring the world of programming.  
-Currentlyworking on **Go** 🐹 and **Python** 🐍, and building cool projects along the way!
+Currently working on **Go** 🐹 and **Python** 🐍, and building cool projects along the way!
 I work as a Technical Supervisor with 15+ years of experience in IT infrastructure, networking, and security systems. I specialize in CCTV, networking, VoIP, and enterprise support. I’m passionate about solving complex technical challenges, leading teams, and continuously learning new technologies. 
 
 - 🌱 I’m currently working on **Go** and **Python**
