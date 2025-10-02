@@ -1,6 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m George Laliotis – a Technical Supervisor with 15+ years of experience in IT infrastructure, networking, and security systems. I specialize in CCTV, alarm systems, VoIP, and enterprise support. I’m passionate about solving complex technical challenges, leading teams, and continuously learning new technologies.
+👋 Hi, I’m George Laliotis an aspiring developer exploring the world of programming.  
+Currently learning **Go** 🐹 and **Python** 🐍, and building cool projects along the way!
+I work as a Technical Supervisor with 15+ years of experience in IT infrastructure, networking, and security systems. I specialize in CCTV, networking, VoIP, and enterprise support. I’m passionate about solving complex technical challenges, leading teams, and continuously learning new technologies. 
 
+- 🌱 I’m currently learning **Go** and **Python**
+- 💻 Interested in backend development, automation, and open-source
+- 🎯 Goal: Contribute to projects and grow as a developer
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giorgoslaliotis@gmail.com) 
