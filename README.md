@@ -3,7 +3,7 @@
 Currently learning **Go** 🐹 and **Python** 🐍, and building cool projects along the way!
 I work as a Technical Supervisor with 15+ years of experience in IT infrastructure, networking, and security systems. I specialize in CCTV, networking, VoIP, and enterprise support. I’m passionate about solving complex technical challenges, leading teams, and continuously learning new technologies. 
 
-- 🌱 I’m currently learning **Go** and **Python**
+- 🌱 I’m currently working on **Go** and **Python**
 - 💻 Interested in backend development, automation, and open-source
 - 🎯 Goal: Contribute to projects and grow as a developer
 
