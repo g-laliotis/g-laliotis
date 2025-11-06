@@ -1,8 +1,3 @@
-<div align="center">
-  
-<!-- Modern Tech Banner -->
-<img src="https://i.imgur.com/6H7Bc8a.png" width="100%"/>
-
 # 💫 About Me:
 👋 Hi, I’m George Laliotis an aspiring developer exploring the world of programming.  
 Currently working on **Go** 🐹 and **Python** 🐍, and building cool projects along the way!
