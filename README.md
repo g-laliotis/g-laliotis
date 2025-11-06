@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&h=300&fit=crop" width="100%" alt="Cybersecurity Banner"/>
+</div>
+
+# George Laliotis
+## Security-Focused Full-Stack Developer
 # 💫 About Me:
 👋 Hi, I’m George Laliotis an aspiring developer exploring the world of programming.  
 Currently working on **Go** 🐹 and **Python** 🐍, and building cool projects along the way!
