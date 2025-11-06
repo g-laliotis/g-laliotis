@@ -14,9 +14,8 @@ I work as a Technical Supervisor with 15+ years of experience in IT infrastructu
 - 🎯 Goal: Contribute to projects and grow as a developer
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giorgoslaliotis@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgoslaliotis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgos-laliotis-79b26870/)
-
 ![Snake animation](https://raw.githubusercontent.com/g-laliotis/g-laliotis/output/github-contribution-grid-snake-dark.svg)
 
 # 💻 Tech Stack:
