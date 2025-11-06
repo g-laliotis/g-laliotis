@@ -13,11 +13,7 @@ I work as a Technical Supervisor with 15+ years of experience in IT infrastructu
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-<!-- Add this for animated snake game -->
-![Snake Game](https://github.com/g-laliotis/g-laliotis/blob/output/github-contribution-grid-snake.svg)
-
-<!-- WakaTime stats (if you use it) -->
-<!-- [![wakatime](https://wakatime.com/badge/user/{user_id}.svg)](https://wakatime.com/@g-laliotis) -->
+![Snake animation](https://raw.githubusercontent.com/g-laliotis/g-laliotis/output/github-contribution-grid-snake.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=g-laliotis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
