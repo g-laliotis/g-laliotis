@@ -1,3 +1,19 @@
+<div align="center">
+
+<!-- Cybersecurity Matrix Banner -->
+<img src="https://i.imgur.com/8f6R2L2.gif" width="100%" alt="Cybersecurity Banner"/>
+
+# 🔒 George Laliotis
+## Security-Focused Full-Stack Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://www.linkedin.com/in/george-laliotis/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000)](https://your-portfolio.com)
+
+**`Building secure applications for a safer digital world`**
+
+</div>
+
+---
 # 💫 About Me:
 👋 Hi, I’m George Laliotis an aspiring developer exploring the world of programming.  
 Currently working on **Go** 🐹 and **Python** 🐍, and building cool projects along the way!
