@@ -19,17 +19,19 @@ I work as a Technical Supervisor with 15+ years of experience in IT infrastructu
 
 <div align="center">
 
-<!-- Compact layout -->
-| **Metrics** | **Languages** | **Streak** |
-|:---:|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=g-laliotis&show_icons=true&count_private=true&theme=radical&hide_border=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-laliotis&layout=compact&theme=radical&hide_border=true" width="100%"> | <img src="https://streak-stats.demolab.com/?user=g-laliotis&theme=radical&hide_border=true" width="100%"> |
+### **📊 Live Metrics**
+
+<!-- Stack stats vertically or use flexbox -->
+<img src="https://github-readme-stats.vercel.app/api?username=g-laliotis&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-laliotis&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
+<img src="https://streak-stats.demolab.com/?user=g-laliotis&theme=radical&hide_border=true&background=0D1117" height="165" />
 
 ### **🎯 Weekly Focus**
 <!-- If you use WakaTime, uncomment this -->
 <!-- [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&layout=compact&theme=radical)](https://wakatime.com/@YOUR_USERNAME) -->
 
 ### **📈 Contribution Graph**
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=g-laliotis&theme=github-dark&bg_color=0D1117&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=g-laliotis&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)
 
 </div>
 
