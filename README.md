@@ -32,6 +32,7 @@ I work as a Technical Supervisor with 15+ years of experience in IT infrastructu
 
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=g-laliotis&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=g-laliotis)
