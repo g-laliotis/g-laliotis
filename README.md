@@ -1,3 +1,16 @@
+<div align="center">
+
+<!-- Matrix Banner -->
+<img src="https://i.imgur.com/8f6R2L2.gif" width="100%" alt="Matrix Code Rain"/>
+
+# George Laliotis
+## Full-Stack Developer
+
+**`Turning coffee into code since ${new Date().getFullYear() - 2020}`**
+
+</div>
+
+---
 # 💫 About Me:
 👋 Hi, I’m George Laliotis an aspiring developer exploring the world of programming.  
 Currently working on **Go** 🐹 and **Python** 🐍, and building cool projects along the way!
