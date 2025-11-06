@@ -23,8 +23,6 @@ I work as a Technical Supervisor with 15+ years of experience in IT infrastructu
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-laliotis&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=g-laliotis&theme=radical&hide_border=true)
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=g-laliotis&theme=react-dark&bg_color=0D1117&hide_border=true)
 
 </div>
