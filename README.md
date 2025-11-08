@@ -3,7 +3,7 @@
 </div>
 
 # George Laliotis
-## Security-Focused Developer
+## Software Engineer | Go Developer | Clean Architecture, CI/CD & Open-Source Enthusiast
 # 💫 About Me:
 👋 Hi, I’m George Laliotis an aspiring developer exploring the world of programming.  
 Currently working on **Go** 🐹 and **Python** 🐍, and building cool projects along the way!
