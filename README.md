@@ -1,39 +1,48 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&h=300&fit=crop" width="100%" alt="Cybersecurity Banner"/>
+  <img src="https://png.pngtree.com/background/20250105/original/pngtree-dark-blue-cyber-security-background-design-picture-image_15514541.jpg" width="100%" alt="Cybersecurity Banner"/>
 </div>
 
-# George Laliotis
-## Security Based Developer | Clean Architecture, CI/CD & Open-Source Enthusiast
-# 💫 About Me:
-👋 Hi, I’m George Laliotis an aspiring developer exploring the world of programming.  
-Currently working on **Go** 🐹 and **Python** 🐍, and building cool projects along the way!
-I work as a Technical Supervisor with 15+ years of experience in IT infrastructure, networking, and security systems. I specialize in networking, wireless networks, VoIP, and enterprise support. I’m passionate about solving complex technical challenges, leading teams, and continuously learning new technologies. 
+# George Laliotis  
+### Security-Based Developer · Clean Architecture · CI/CD · Open Source  
 
-- 🌱 I’m currently working on **Go** and **Python**
-- 💻 Interested in backend development, automation, and open-source
-- 🎯 Goal: Contribute to projects and grow as a developer
-
-## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgoslaliotis@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgos-laliotis-79b26870/)
-![Snake animation](https://raw.githubusercontent.com/g-laliotis/g-laliotis/output/github-contribution-grid-snake-dark.svg)
-
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-## 🚀 Developer Analytics
-
-<div align="center">
-
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-laliotis&show_icons=true&theme=radical&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-laliotis&layout=compact&theme=radical&hide_border=true)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=g-laliotis&theme=react-dark&bg_color=0D1117&hide_border=true)
-
-</div>
-
-[![](https://visitcount.itsvg.in/api?id=g-laliotis&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=g-laliotis)
+## 🧭 About
+Technical Supervisor and Developer with over 15 years of experience in IT infrastructure, networking, and security systems.  
+Currently building backend tools in **Go** and **Python**, with a focus on automation, scalability, and reliability.  
+
+Focused on:
+- Network architecture & enterprise-grade systems  
+- Security operations & infrastructure hardening  
+- Continuous integration and clean architecture principles  
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Go, Python  
+**Tools:** Git, GitHub, Raspberry Pi, CI/CD  
+**Domains:** Networking, Security, Automation  
+
+---
+
+## 📊 GitHub Activity
+<div align="center">
+  
+![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-laliotis&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true)
+  
+</div>
+
+---
+
+## 🌐 Connect
+[LinkedIn](https://www.linkedin.com/in/giorgos-laliotis-79b26870/) · [Email](mailto:giorgoslaliotis@gmail.com)
+
+---
+
+<div align="center">
+  <sub>Simple is strong. Secure is smart.</sub>  
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/g-laliotis/assets/main/gradient-bar.png" width="60%" alt="Accent Line"/>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=g-laliotis&label=Profile%20Views&color=30363D&style=flat-square" alt="Profile views"/>
+</div>
