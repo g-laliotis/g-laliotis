@@ -41,8 +41,5 @@ Focused on:
 
 <div align="center">
   <sub>Simple is strong. Secure is smart.</sub>  
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/g-laliotis/assets/main/gradient-bar.png" width="60%" alt="Accent Line"/>
-  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=g-laliotis&label=Profile%20Views&color=30363D&style=flat-square" alt="Profile views"/>
 </div>
