@@ -25,6 +25,15 @@ Focused on:
 
 ---
 
+## 📈 Contributions
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=g-laliotis&theme=react-dark&bg_color=0D1117&hide_border=true)
+
+</div>
+
+---
+
 ## 📊 GitHub Activity
 <div align="center">
   
