@@ -40,7 +40,9 @@ Focused on:
 ---
 
 <div align="center">
-  <sub>Simple is strong. Secure is smart.</sub> 
-  
+  <sub>Simple is strong. Secure is smart.</sub>
+</div>
+
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=g-laliotis&label=Profile%20Views&color=30363D&style=flat-square" alt="Profile views"/>
 </div>
