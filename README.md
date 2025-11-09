@@ -8,7 +8,7 @@
 ---
 
 ## 🧭 About
-Technical Supervisor and Developer with over 15 years of experience in IT infrastructure, networking, and security systems.  
+Technical Supervisor with over 15 years of experience in IT infrastructure, networking, and security systems.  
 Currently building backend tools in **Go** and **Python**, with a focus on automation, scalability, and reliability.  
 
 Focused on:
