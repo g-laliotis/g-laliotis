@@ -45,7 +45,7 @@ Focused on:
 
 ## 🌐 Connect
 [LinkedIn](https://www.linkedin.com/in/giorgos-laliotis-79b26870/) · [Email](mailto:giorgoslaliotis@gmail.com)
-
+[YouTube](https://youtube.com/@therobloxlabs?si=ELzgMz-yGejalk7P)
 ---
 
 <div align="center">
