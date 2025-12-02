@@ -34,10 +34,14 @@ Focused on:
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 <div align="center">
-  
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-laliotis&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-laliotis&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&rank_icon=github)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g-laliotis&theme=github-dark-blue&hide_border=true&background=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-laliotis&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true)
   
 </div>
 
