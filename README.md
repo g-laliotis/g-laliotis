@@ -34,14 +34,12 @@ Focused on:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g-laliotis&theme=dark)
+**[View GitHub Profile →](https://github.com/g-laliotis)**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-laliotis&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-laliotis&layout=compact&theme=radical)
+*Stats services temporarily unavailable*
 
 </div>
 
