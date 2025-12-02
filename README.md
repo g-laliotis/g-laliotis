@@ -37,12 +37,8 @@ Focused on:
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-laliotis&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&rank_icon=github)
+[![GitHub Streak](https://streak-stats.demolab.com?user=g-laliotis&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g-laliotis&theme=github-dark-blue&hide_border=true&background=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-laliotis&layout=compact&theme=github_dark&bg_color=0D1117&hide_border=true)
-  
 </div>
 
 ---
