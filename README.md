@@ -37,7 +37,7 @@ Focused on:
 ## 📊 GitHub Activity
 <div align="center">
   
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-laliotis&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true)
+![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-laliotis&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
   
 </div>
 
