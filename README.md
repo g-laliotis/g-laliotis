@@ -34,14 +34,11 @@ Focused on:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=g-laliotis&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=g-laliotis&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=g-laliotis&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=g-laliotis&theme=tokyonight&hide_border=true)](https://github.com/g-laliotis)
 
 </div>
 
