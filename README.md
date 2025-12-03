@@ -38,9 +38,9 @@ Focused on:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=g-laliotis&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=0d1117)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g-laliotis&theme=github_dark)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=g-laliotis&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=g-laliotis&theme=github_dark)
 
 </div>
 
