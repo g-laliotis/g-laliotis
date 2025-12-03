@@ -38,7 +38,9 @@ Focused on:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=g-laliotis&theme=tokyonight&hide_border=true)](https://github.com/g-laliotis)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=g-laliotis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=g-laliotis&theme=tokyonight&hide_border=true)
 
 </div>
 
