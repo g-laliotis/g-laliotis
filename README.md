@@ -19,7 +19,7 @@ Focused on:
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Go, Python  
+**Languages:** Go, Python, C  
 **Tools:** Git, GitHub, Raspberry Pi, CI/CD  
 **Domains:** Networking, Security, Automation  
 
